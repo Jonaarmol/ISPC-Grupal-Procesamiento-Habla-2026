@@ -1,12 +1,19 @@
 # ISPC-Grupal-Procesamiento-Habla-2026
 
 Instituto Superior Politécnico de Córdoba.
+
 Espacio curricular: Técnicas de Procesamiento del Habla.
+
 Docente: Emmanuel Giudice.
+
 Cohorte: 2024.
+
 Integrantes
+
 Barbero, Maciel (@BarberoMaciel)
+
 Molina, Jonathan (@Jonaarmol)
+
 Molina, Mauricio (@Mauri-Molina10)
 
 
